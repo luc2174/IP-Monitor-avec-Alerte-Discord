@@ -3,7 +3,7 @@ import time
 import json
 import os
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1371773606941425695/MN2iC0l5XoIvcIMBVe32B4TUlh4vDbV4FfM-aFf_Mg1j7L3qFi62i3U9hz7XncvTmiAX"
+WEBHOOK_URL = "https://discord.com/api/webhooks/TON_WEBHOOK_ID/TON_TOKEN"
 IP_FILE = "last_ip.txt"
 
 def get_public_ip():
